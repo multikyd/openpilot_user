@@ -11,7 +11,7 @@ AutoEnableSpeed:9
 UFCModeEnabled:1
 SafetyCamDecelDistGain:-10
 KISANaviSelect:1
-RESCountatStandstill:8
+RESCountatStandstill:25
 BottomTextView:4
 CloseToRoadEdge:1
 LeftEdgeOffset:-5
@@ -22,8 +22,8 @@ CruiseGapBySpdOn:1
 CruiseGapBySpdSpd:40,55,130
 CruiseGapBySpdGap:1,2,2,2
 CruiseSetwithRoadLimitSpeedEnabled:1
-CruiseSetwithRoadLimitSpeedOffset:5
+CruiseSetwithRoadLimitSpeedOffset:10
 ExternalDeviceIPAuto:2
 SetSpeedFive:1
-KISACruiseSpammingInterval:12
+KISACruiseSpammingInterval:13
 KISACruiseSpammingBtnCount:1
