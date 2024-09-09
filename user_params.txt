@@ -1,4 +1,3 @@
-LanguageSetting:main_ko
 KisaVariableCruise:1
 KisaAutoLaneChangeDelay:2
 CruiseStatemodeSelInit:3
