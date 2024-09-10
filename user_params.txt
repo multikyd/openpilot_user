@@ -11,7 +11,7 @@ AutoEnableSpeed:9
 UFCModeEnabled:1
 SafetyCamDecelDistGain:-10
 KISANaviSelect:1
-RESCountatStandstill:25
+RESCountatStandstill:35
 BottomTextView:4
 CloseToRoadEdge:1
 LeftEdgeOffset:-5
