@@ -1,7 +1,7 @@
 KisaVariableCruise:1
 KisaAutoLaneChangeDelay:2
 CruiseStatemodeSelInit:3
-CameraOffsetAdj:0
+CameraOffsetAdj:40
 SteerActuatorDelayAdj:20
 KisaSpeedLimitOffset:3
 CarModel:HYUNDAI_IONIQ_5_PE
@@ -24,6 +24,6 @@ CruiseGapBySpdGap:1,2,2,2
 CruiseSetwithRoadLimitSpeedEnabled:1
 CruiseSetwithRoadLimitSpeedOffset:10
 ExternalDeviceIPAuto:2
-SetSpeedFive:1
+SetSpeedPlus:5
 KISACruiseSpammingInterval:13
 KISACruiseSpammingBtnCount:1
