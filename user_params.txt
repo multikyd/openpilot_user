@@ -35,5 +35,4 @@ AutoResOption:0
 AutoResCondition:0
 AutoResLimitTime:10
 AutoRESDelay:1
-KISAADRVConnected:1
 TimeFactorModHours:9
