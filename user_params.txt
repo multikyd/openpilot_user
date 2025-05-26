@@ -2,7 +2,6 @@ KisaVariableCruise:1
 KisaAutoLaneChangeDelay:2
 CruiseStatemodeSelInit:3
 CameraOffsetAdj:40
-SteerActuatorDelayAdj:15
 KisaSpeedLimitOffset:3
 CarModel:HYUNDAI_IONIQ_5_PE
 CruiseOverMaxSpeed:1
@@ -25,7 +24,7 @@ CruiseSetwithRoadLimitSpeedEnabled:1
 CruiseSetwithRoadLimitSpeedOffset:10
 ExternalDeviceIPAuto:2
 SetSpeedPlus:10
-KISACruiseSpammingInterval:14
+KISACruiseSpammingInterval:13
 KISACruiseSpammingBtnCount:1
 KISAEarlyStop:0
 LiveSteerRatioPercent:-10
